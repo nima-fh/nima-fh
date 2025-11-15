@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm Nima Fakhimi  
 
-<!--
-**nima-fh/nima-fh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **About Me**  
+- 🎓 20 years old, passionate about technology and learning.  
+- 💻 Started as a **Front-End Developer**, building clean and interactive user interfaces.  
+- 📊 Currently exploring the world of **Data Science** — Python, Machine Learning, and Data Visualization.  
+- 🚀 Curious, collaborative, and always growing.  
 
-Here are some ideas to get you started:
+⚡ **Skills & Tools**  
+- Languages: JavaScript, Python, SQL 
+- Front-End: HTML, CSS, React, Tailwind  
+- Data Science: Pandas, NumPy, Matplotlib, Scikit-learn  
+- Tools: Git, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 **What I'm Working On**  
+- Building projects that combine **data analysis** with **visual storytelling**.  
+- Sharing my learning journey in **Data Science** through open-source contributions.  
+
+📫 **Connect With Me**  
+- [LinkedIn](https://www.linkedin.com/)  
+- [Github](https://github.com/nima-fh)  
+- [Telegram](https://t.me/Nimafhnfkh)  
+
+---
+✨ *“Turning ideas into code, and data into insights.”*  
+
