@@ -11,7 +11,7 @@
 
 - Languages: JavaScript, Python, SQL
 - Front-End: HTML, CSS, React, Tailwind , bootstrap
-- Data Science: Pandas, NumPy, Matplotlib, Scikit-learn
+- Data Science: Pandas, NumPy, Matplotlib, Scikit-learn, MariaDB, DBeaver
 - Tools: Git, VS Code  
   ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,7 +20,6 @@
   ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-  ![github_pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white)
   ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![MUSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -28,6 +27,7 @@
   ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
   ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nima-fh&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  ![mariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 📈 **What I'm Working On**
 
