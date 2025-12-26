@@ -27,7 +27,7 @@
   ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
   ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
   ![mariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nima-fh&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 📈 **What I'm Working On**
 
