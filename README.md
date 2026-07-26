@@ -2,10 +2,10 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science student
+- 🎓 Computer Science | AI & Large Language Models
 - 🤖 Passionate about Artificial Intelligence and Large Language Models
 - 💻 Building projects with PyTorch, Hugging Face, and modern AI frameworks
-- 📚 Currently learning advanced LLM fine-tuning and Retrieval-Augmented Generation (RAG)
+- 📚 Building LLM applications with RAG, PEFT, LoRA, and Hugging Face.
 - 🌱 Always learning and building
 
 ---
