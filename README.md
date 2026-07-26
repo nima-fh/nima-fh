@@ -83,9 +83,9 @@
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nima-fh&show_icons=true&theme=tokyonight"/>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nima-fh&show_icons=true&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nima-fh&layout=compact&theme=tokyonight"/>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nima-fh&layout=compact&theme=tokyonight)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nima-fh&theme=tokyonight"/>
 
