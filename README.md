@@ -21,6 +21,7 @@
 ### AI & Machine Learning
 
 - PyTorch
+- TensorFlow
 - Transformers
 - Hugging Face
 - PEFT
