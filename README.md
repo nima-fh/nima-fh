@@ -83,9 +83,15 @@
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter)
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nima-fh&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nima-fh&theme=tokyonight)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nima-fh&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nima-fh&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nima-fh&layout=compact&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nima-fh&theme=tokyonight&utcOffset=3)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nima-fh&theme=tokyonight"/>
 
