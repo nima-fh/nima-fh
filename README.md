@@ -1,50 +1,57 @@
-# Hi there 👋 I'm Nima Fakhimi
+# Hi, I'm Nima Fakhimi 👋
 
-## 🚀 About Me
+### AI Engineer | LLM Applications | Generative AI
 
-- 🎓 Computer Science | AI & Large Language Models
-- 🤖 Passionate about Artificial Intelligence and Large Language Models
-- 💻 Building projects with PyTorch, Hugging Face, and modern AI frameworks
-- 📚 Building LLM applications with RAG, PEFT, LoRA, and Hugging Face.
-- 🌱 Always learning and building
+I build practical AI applications using **Large Language Models, Retrieval-Augmented Generation, Fine-Tuning, and Agentic AI**.
+
+My focus is turning AI concepts into complete, usable systems — from model experimentation and retrieval pipelines to tool-using agents and deployment.
+
+🌐 **Portfolio:** [portfolio-seven-beryl-16.vercel.app](https://portfolio-seven-beryl-16.vercel.app/)
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
 
-### Languages
+- 🎓 Computer Engineering student focused on AI and Large Language Models
+- 🤖 Building LLM-powered applications and AI systems
+- 🧠 Interested in RAG, AI Agents, Fine-Tuning, and Generative AI
+- 💻 Hands-on experience with PyTorch, Hugging Face, LangChain, and modern AI frameworks
+- 📚 Continuously learning and building practical AI projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Machine Learning
 
 - Python
 - SQL
-- JavaScript
-
-### AI & Machine Learning
-
 - PyTorch
 - TensorFlow
-- Transformers
-- Hugging Face
-- PEFT
-- TRL
-- LoRA / QLoRA
-- DPO
-- Scikit-Learn
+- Scikit-learn
 - Pandas
 - NumPy
 - Matplotlib
 
-### LLM Frameworks
+### LLM & Generative AI
 
+- Hugging Face Transformers
+- PEFT
+- TRL
+- LoRA / QLoRA
+- DPO
 - LangChain
-- LlamaIndex
-- ChromaDB
+- LangGraph
+- RAG
 - FAISS
 
-### Deployment
+### AI Applications & Deployment
 
-- Gradio
+- Ollama
 - Streamlit
+- Gradio
 - FastAPI
+- Docker
 
 ### Tools
 
@@ -55,38 +62,75 @@
 
 ---
 
-## 🚀 Current Focus
+## ⭐ Featured Projects
+
+### 🤖 General AI Agent
+
+A tool-using AI agent built with **LangGraph and LangChain** that dynamically selects tools for different tasks.
+
+**Features:**
+
+- Web Search
+- Wikipedia Search
+- Calculator
+- Python Execution
+- Date & Time
+- Multi-document PDF Q&A
+- FAISS-based Retrieval
+- Local LLM inference with Ollama
+
+**Tech:** Python · LangGraph · LangChain · Qwen3 · Ollama · FAISS · BGE-M3 · Streamlit
+
+🔗 [View Repository](https://github.com/nima-fh/General-AI-Agent)
+
+---
+
+### 📚 End-to-End RAG Chatbot
+
+A document question-answering system that processes PDF documents, creates semantic embeddings, retrieves relevant context, and generates grounded answers using a local LLM.
+
+**Tech:** Python · LangChain · FAISS · Qwen3 · Ollama · Streamlit
+
+🔗 [View Repository](https://github.com/nima-fh/rag-chatbot)
+
+---
+
+### 🧠 LLM Fine-Tuning
+
+Hands-on experiments exploring modern LLM adaptation and parameter-efficient fine-tuning techniques.
+
+**Topics:**
+
+- LoRA
+- QLoRA
+- DPO
+- Parameter-Efficient Fine-Tuning
+- Hugging Face Transformers
+- PyTorch
+
+**Tech:** PyTorch · Transformers · PEFT · TRL
+
+🔗 [View Repository](https://github.com/nima-fh/Pytorch-in-Deep-learning-and-LLM)
+
+---
+
+## 🎯 Current Focus
 
 - Large Language Models
-- RAG Systems
-- AI Agents
+- Retrieval-Augmented Generation
+- Agentic AI
 - Efficient Fine-Tuning
-- Open Source AI
+- LLM Applications
+- AI System Development
 
 ---
 
+## 📫 Connect With Me
 
-📫 **Connect With Me**
+🌐 [Portfolio](https://portfolio-seven-beryl-16.vercel.app/)
 
-- [LinkedIn](https://www.linkedin.com/)
-- [Github](https://github.com/nima-fh)
-- [Telegram](https://t.me/Nimafhnfkh)
-- [my website](https://portfolio-seven-beryl-16.vercel.app/)
+💼 [LinkedIn](https://www.linkedin.com/in/nimafakhimi/)
 
----
+🐙 [GitHub](https://github.com/nima-fh)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nima-fh&theme=tokyonight)](https://git.io/streak-stats)
-
-
-
-
+📱 [Telegram](https://t.me/Nimafhnfkh)
