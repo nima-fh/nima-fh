@@ -71,7 +71,7 @@
 - [LinkedIn](https://www.linkedin.com/)
 - [Github](https://github.com/nima-fh)
 - [Telegram](https://t.me/Nimafhnfkh)
-- [my website]([https://t.me/Nimafhnfkh](https://portfolio-seven-beryl-16.vercel.app/))
+- [my website](https://portfolio-seven-beryl-16.vercel.app/)
 
 ---
 
